@@ -37,4 +37,4 @@ This repository provides a public overview of the project. The frontend and back
 
 Source code access is available upon request.
 
-**Contact:** [junyi.sun@foxmail.com](mailto:junyi.sun@foxmail.com)
+**Contact:** [juny1.sun@tum.de](mailto:juny1.sun@tum.de)
